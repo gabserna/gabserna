@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Gabriel and I'm a developer, from Cancun MX</p>
 
 ###
 
@@ -10,23 +10,21 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 1993 💾<br>
+  📚 I'm currently learning Angular<br>
+  🎯 Goals: Being a web developer for life!<br>
+  🎲 Fun fact: Ask me about night fishing! 🎣 </p>
 
 ###
 
 <h2 align="left">I code with</h2>
 
-###
-
-<p align="left">Hello World!!</p>
-
-###
 ```
 const gabserna = {
   code: [Javascript, HTML, CSS, SCSS],
   tools: [React, Angular, Node, Docker]
       education: {
-        Mountainlands Technical College
+        WebDev: Mountainlands Technical College,
       }
 }
 ```
@@ -91,21 +89,9 @@ const gabserna = {
 
 ###
 
-<div align="center">
-  <img height="600" src=""  />
-</div>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/gabserna" target="_blank">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/gabserna" target="_blank">
-    <img src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://codepen.io/warako" target="_blank">
-    <img src="https://assets.codepen.io/1584356/codepen.png" width="52" height="40" alt="codepen logo"  />
   </a>
 </div>
 
