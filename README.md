@@ -21,6 +21,7 @@
 <p align="left">Hello World!!</p>
 
 ###
+```
 const gabserna = {
   code: [Javascript, HTML, CSS, SCSS],
   tools: [React, Angular, Node, Docker]
@@ -28,10 +29,7 @@ const gabserna = {
         Mountainlands Technical College
       }
 }
-
-<img src="https://raw.githubusercontent.com/gabserna/gabserna/output/snake.svg" alt="Snake animation" />
-
-###
+```
 
 ###
 
@@ -94,23 +92,20 @@ const gabserna = {
 ###
 
 <div align="center">
-  <img height="600" src=""  /> //add some picture here
+  <img height="600" src=""  />
 </div>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabserna" target="_blank">
-    <img src="https://linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/gabserna" target="_blank">
-    <img src="https://twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/_gabserna/" target="_blank">
-    <img src="https://instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://codepen.io/warako" target="_blank">
-    <img src="https://codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+    <img src="https://assets.codepen.io/1584356/codepen.png" width="52" height="40" alt="codepen logo"  />
   </a>
 </div>
 
