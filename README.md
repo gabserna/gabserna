@@ -72,7 +72,7 @@ const gabserna = {
 <a href="https://linkedin.com/in/gabserna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabserna" height="30" width="40" /></a>
 </p>
 <hr>
-<div align="center" style="display:flex;flex-direction:row;justify-content:space-between;align:center;">
+<div align="center" style="display:flex;flex-direction:row;justify-content:space-between;align:center;white-space: nowrap;">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&show_icons=true)](https://github.com/gabserna/github-readme-stats)
