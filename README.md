@@ -78,9 +78,9 @@ const gabserna = {
 ###
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true&&hide_border=true&border_radius=2&date_format=M%20j%5B%2C%20Y%5D&card_width=350)
+![Github stats](https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true&&hide_border=true&border_radius=2&date_format=M%20j%5B%2C%20Y%5D&card_width=300)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&show_icons=true&&hide_border=true&border_radius=2&date_format=M%20j%5B%2C%20Y%5D&card_width=350)](https://github.com/gabserna/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&show_icons=true&&hide_border=true&border_radius=2&date_format=M%20j%5B%2C%20Y%5D&card_width=250)](https://github.com/gabserna/github-readme-stats)
 
 
 
