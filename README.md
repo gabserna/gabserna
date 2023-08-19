@@ -30,46 +30,46 @@ const gabserna = {
 
 ```
 <hr>
-<div align="left">
+<div align="center">
         <h3>I code with this languages and tools:</h3>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" />
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />
-            <img src="https://skillicons.dev/icons?i=aws" height="40" />
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" />
-            <img src="https://skillicons.dev/icons?i=github" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" />
-            <img src="https://skillicons.dev/icons?i=postman" height="40" />
-            <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" height="40" />
-            <img src="https://skillicons.dev/icons?i=vite" height="40" />
-          <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" height="40" />
-          <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" height="40" />
-          <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" />
+            <img src="https://skillicons.dev/icons?i=aws" height="30" />
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" />
+            <img src="https://skillicons.dev/icons?i=github" height="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" />
+            <img src="https://skillicons.dev/icons?i=postman" height="30" />
+            <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" height="30" />
+            <img src="https://skillicons.dev/icons?i=vite" height="30" />
+          <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" height="30" />
+          <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" height="30" />
+          <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="30" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" />
         </div>
 <hr>
-    <div align="center" style="display: flex; flex-direction: row;">
-        <div style="width:70%">
-        <img src="https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true&&hide_border=true&border_radius=2&card_width=300">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabserna&theme=tokyonight&show_icons=true&hide_border=true&border_radius=2">
+    <div style="width:80%; margin:0 auto;  border: 2px solid red; display: flex;">
+        <div style="width:80%; display: flex; justify-content: space-evenly;">
+            <img src="https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true&&border_radius=0&rank_icon=github&hide=contribs,issues&card_width=200">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabserna&theme=tokyonight&show_icons=true&border_radius=0&card_width=350">
     </div>
         <a href="https://github.com/gabserna/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&
-            layout=compact&langs_count=8&hide_border=true&border_radius=2&card_width=320&show_icons=true&locale=en&layout=compact
+            <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&
+            layout=compact&langs_count=8&border_radius=0&card_width=300&show_icons=true&locale=en&layout=compact
             ">
         </a>
     </div>
