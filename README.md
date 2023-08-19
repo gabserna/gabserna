@@ -1,6 +1,4 @@
-![MasterHead](/header.jpg)
-
-<h1 align="center">Hey there!👋, it's me: Gabe Serna</h1>
+<h1 align="center">it's me: Gabe Serna</h1>
 <h3 align="center">A passionate (still on the way 2be) developer from Cancun, MX 🌴🌊</h3>
 
 - 💾 Creating bugs since 1993
@@ -31,7 +29,6 @@ const gabserna = {
 };
 
 ```
-
 <hr>
 <div align="left">
         <h3>I code with this languages and tools:</h3>
@@ -66,7 +63,7 @@ const gabserna = {
         </div>
 <hr>
     <div align="center" style="display: flex; flex-direction: row; margin:0 auto">
-        <div align="center" style="width: 30%;">
+        <div align="center" style="width: 20%;">
         <img src="https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabserna&theme=tokyonight&show_icons=true">    
     </div>
@@ -77,3 +74,8 @@ const gabserna = {
 <div align="center">
   <img src="https://profile-counter.glitch.me/gabserna/count.svg?"  />
 </div>
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&show_icons=true)](https://github.com/gabserna/github-readme-stats)
+![Heroku](https://github-readme-streak-stats.herokuapp.com/?user=gabserna&theme=tokyonight&show_icons=true)
