@@ -1,38 +1,33 @@
 <h1 align="center">it's me: Gabe Serna</h1>
-<h3 align="center">A passionate (still on the way 2be) developer 🌴🌊</h3>
-
-- 💾 Creating bugs since 1993
-
-- 🌱 I’m currently learning **Angular**
-
-- 🎯 Goals: Become a senior developer for life!
+<h3 align="center">A (still on the way 2be) good developer 🌴🌊</h3>
 
 ```
 const gabserna = {
   name: "Gabe Serna",
   from: "Cancun MX",
+  established: "1993-Current",
   education: {
     certificated: "Web Programming & Development",
     school: "Mountainland Technical College",
     graduationYear: 2024,
   },
   skills: {
-  languages: ["HTML5", "CSS3", "Sass", "JavaScript", "MS-DOS"],
-  frameworks: ["React", "Vue.js", "Vuetify", "AngularJS"],
-  frontendTools: ["Postman", "Vite", "Pug"],
-  versionControl: ["Git", "GitHub"],
-  databases: ["MongoDB", "PostgreSQL"],
-  containerization: ["Docker"],
-  runtime: ["Node.js"],
-  cloudServices: ["AWS"],
-  designTools: ["Figma"],
-  designFrameworks: ["Bootstrap"],
-  packageManagers: ["npm"],
+    languages: ["HTML5", "CSS3", "Sass", "JavaScript", "MS-DOS"],
+    oldSchool: ["Cobol", "Basic", "Fortran", "Pascal"],
+    frameworks: ["React", "Vue.js", "Vuetify", "AngularJS"],
+    frontendTools: ["Postman", "Vite", "Pug"],
+    versionControl: ["Git", "GitHub"],
+    databases: ["MongoDB", "PostgreSQL"],
+    containerization: ["Docker"],
+    runtime: ["Node.js"],
+    cloudServices: ["AWS"],
+    designTools: ["Figma"],
+    designFrameworks: ["Bootstrap"],
+    packageManagers: ["npm"],
   },
-  stillWorkingOn: {
-    ...
-  }
+  stillLearning: true,
 };
+
 
 ```
 <hr>
