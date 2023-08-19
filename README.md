@@ -64,11 +64,11 @@ const gabserna = {
 <hr>
     <div align="center" style="display: flex; flex-direction: row; margin:0 auto">
         <div align="center" style="width: 20%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true&&hide_border=true&border_radius=2&date_format=M%20j%5B%2C%20Y%5D&card_width=300">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabserna&theme=tokyonight&show_icons=true">    
     </div>
         <a href="https://github.com/gabserna/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&show_icons=true">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&show_icons=true&&hide_border=true&border_radius=2&date_format=M%20j%5B%2C%20Y%5D&card_width=250">
         </a>
     </div>
 <div align="center">
