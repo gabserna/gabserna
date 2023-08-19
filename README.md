@@ -76,7 +76,7 @@ const gabserna = {
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&show_icons=true)](https://github.com/gabserna/github-readme-stats)
-![Heroku](https://github-readme-streak-stats.herokuapp.com/?user=gabserna&)
+![Heroku](https://github-readme-streak-stats.herokuapp.com/?user=gabserna&theme=tokyonight&show_icons=true)
 </div>
 <div align="center">
   <img src="https://profile-counter.glitch.me/gabserna/count.svg?"  />
