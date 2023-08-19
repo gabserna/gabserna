@@ -45,7 +45,7 @@ const gabserna = {
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" /><br>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="30" />
@@ -62,7 +62,7 @@ const gabserna = {
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" />
         </div>
 <hr>
-    <div style="width:80%; margin:0 auto;  border: 2px solid red; display: flex;">
+    <div style="width:100%; margin:0 auto;  border: 2px solid red; display: flex;">
         <a href="https://github.com/gabserna/github-readme-stats">
             <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&
             layout=compact&langs_count=8&border_radius=0&card_width=300&show_icons=true&locale=en&layout=compact
