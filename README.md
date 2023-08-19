@@ -1,18 +1,13 @@
 ![MasterHead](/header.jpg)
 
-<h1 align="center">Hi 👋, I'm Gabe Serna</h1>
+<h1 align="center">Hey there!👋, it's me: Gabe Serna</h1>
 <h3 align="center">A passionate (still on the way 2be) developer from Cancun, MX 🌴🌊</h3>
 
 - 💾 Creating bugs since 1993
 
-- 🔭 I’m currently working on **SolleNaturals**
-
 - 🌱 I’m currently learning **Angular**
 
-- ⚡ Fun fact **I really love to go night fishing 🎣**
-
 - 🎯 Goals: Become a senior developer for life!
-
 
 ```
 const gabserna = {
@@ -69,33 +64,20 @@ const gabserna = {
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
 </div>
-
-<br><hr><br>
-
+<hr><br>
 <h3 align="center">Connect with me:</h3>
-
-
 <p align="center">
 <a href="https://codepen.io/gabserna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gabserna" height="30" width="40" /></a>
 <a href="https://twitter.com/_gabserna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_gabserna" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gabserna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabserna" height="30" width="40" /></a>
 </p>
-
-<br><hr><br>
-
+<hr><br>
 <div align="center" style="display:flex;justify-content:space-between;align:center;"> 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&show_icons=true)](https://github.com/gabserna/github-readme-stats)
-
+![Heroku](https://github-readme-streak-stats.herokuapp.com/?user=gabserna&)
 </div>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabserna&show_icons=true&locale=en&layout=compact" alt="gabserna" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabserna&show_icons=true&locale=en" alt="gabserna" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabserna&" alt="gabserna" /></p>
-
-<br><hr><br>
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/gabserna/count.svg?"  />
 </div>
