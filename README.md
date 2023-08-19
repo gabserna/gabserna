@@ -64,11 +64,12 @@ const gabserna = {
 <hr>
     <div align="center" style="display: flex; flex-direction: row;">
         <div>
-        <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true&&hide_border=true&border_radius=2&date_format=M%20j%5B%2C%20Y%5D&card_width=300">
-        <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabserna&theme=tokyonight&show_icons=true&hide_border=true&border_radius=2">
+        <img width="250em" src="https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true&&hide_border=true&border_radius=2&card_width=300">
+        <img width="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabserna&theme=tokyonight&show_icons=true&hide_border=true&border_radius=2">
     </div>
         <a href="https://github.com/gabserna/github-readme-stats">
-            <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&show_icons=true&&hide_border=true&border_radius=2&date_format=M%20j%5B%2C%20Y%5D&card_width=250">
+            <img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&
+            layout=compact&langs_count=8&hide_border=true&border_radius=2&card_width=320">
         </a>
     </div>
 
