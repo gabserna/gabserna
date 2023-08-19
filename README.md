@@ -65,15 +65,8 @@ const gabserna = {
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" />
         </div>
 <hr>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://codepen.io/gabserna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gabserna" height="30" width="40" /></a>
-<a href="https://twitter.com/_gabserna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_gabserna" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gabserna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabserna" height="30" width="40" /></a>
-</p>
-<hr>
-    <div align="center" style="display: flex; flex-direction: row; justify-content: center; margin:0 auto">
-        <div align="center" style="width: 30%; justify-content: center;">
+    <div align="center" style="display: flex; flex-direction: row; margin:0 auto">
+        <div align="center" style="width: 30%;">
         <img src="https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabserna&theme=tokyonight&show_icons=true">    
     </div>
