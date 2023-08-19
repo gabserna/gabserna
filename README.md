@@ -1,5 +1,5 @@
 <h1 align="center">it's me: Gabe Serna</h1>
-<h3 align="center">A passionate (still on the way 2be) developer from Cancun, MX 🌴🌊</h3>
+<h3 align="center">A passionate (still on the way 2be) developer 🌴🌊</h3>
 
 - 💾 Creating bugs since 1993
 
@@ -9,12 +9,14 @@
 
 ```
 const gabserna = {
-  name: "Gabriel Serna",
+  name: "Gabe Serna",
+  from: "Cancun MX",
   education: {
-    degree: "Web Development & programming",
-    school: "Mountainlands Technical College",
+    certificated: "Web Programming & Development",
+    school: "Mountainland Technical College",
     graduationYear: 2024,
   },
+  skills: {
   languages: ["HTML5", "CSS3", "Sass", "JavaScript", "MS-DOS"],
   frameworks: ["React", "Vue.js", "Vuetify", "AngularJS"],
   frontendTools: ["Postman", "Vite", "Pug"],
@@ -22,10 +24,14 @@ const gabserna = {
   databases: ["MongoDB", "PostgreSQL"],
   containerization: ["Docker"],
   runtime: ["Node.js"],
-  cloudServices: ["Amazon Web Services"],
+  cloudServices: ["AWS"],
   designTools: ["Figma"],
   designFrameworks: ["Bootstrap"],
   packageManagers: ["npm"],
+  },
+  stillWorkingOn: {
+    ...
+  }
 };
 
 ```
