@@ -21,12 +21,23 @@
 
 ```
 const gabserna = {
-  code: [Javascript, HTML, CSS, SCSS],
-  tools: [React, Angular, Node, Docker]
-      education: {
-        WebDev: Mountainlands Technical College,
-      }
-}
+  languages: ["HTML5", "CSS3", "Sass", "JavaScript", "MS-DOS"],
+  frameworks: ["React", "Vue.js", "Vuetify", "AngularJS"],
+  frontendTools: ["Postman", "Vite", "Pug"],
+  versionControl: ["Git", "GitHub"],
+  databases: ["MongoDB", "PostgreSQL"],
+  containerization: ["Docker"],
+  runtime: ["Node.js"],
+  cloudServices: ["Amazon Web Services"],
+  designTools: ["Figma"],
+  designFrameworks: ["Bootstrap"],
+  packageManagers: ["npm"],
+  
+  education: {
+    WebDev: "Mountainlands Technical College",
+  },
+};
+
 ```
 
 ###
@@ -121,6 +132,36 @@ const gabserna = {
 - 🌱 I’m currently learning **Angular**
 
 - ⚡ Fun fact **I really love to go night fishing**
+
+```
+const gabserna = {
+  name: "Gabriel Serna",
+  experiences: [
+    {
+      title: "Frontend Developer",
+      company: "ABC Tech Solutions",
+      duration: "May 2020 - Present",
+      description: "Developed and maintained responsive web applications using technologies such as React, HTML, CSS, and SCSS. Collaborated with the design and backend teams to create user-friendly interfaces.",
+      technologies: ["React", "HTML", "CSS", "SCSS"],
+    },
+    {
+      title: "Full Stack Developer",
+      company: "XYZ Software",
+      duration: "January 2018 - April 2020",
+      description: "Worked on various projects involving both frontend and backend development. Utilized Angular for frontend and Node.js for backend. Dockerized applications to streamline deployment processes.",
+      technologies: ["Angular", "Node", "Docker"],
+    },
+  ],
+  education: {
+    degree: "Associate's Degree in Web Development",
+    school: "Mountainlands Technical College",
+    graduationYear: 2017,
+  },
+};
+
+```
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
