@@ -27,8 +27,6 @@ const gabserna = {
   },
   stillLearning: true,
 };
-
-
 ```
 <hr>
 <div align="center">
