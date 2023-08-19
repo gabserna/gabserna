@@ -1,4 +1,7 @@
-[![MasterHead](./banner.gif)]
+<header style="height: 500px; overflow: hidden; position: relative;">
+  <img src="./banner.gif" alt="MasterHead" style="width: 100%; position: absolute; top: -350px; left: 0;">
+</header>
+
 <h1 align="center">Hi 👋, I'm Gabe Serna</h1>
 <h3 align="center">A passionate (still on the way 2be) developer from Cancun, MX 🌴🌊</h3>
 
