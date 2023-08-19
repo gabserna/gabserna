@@ -63,7 +63,7 @@ const gabserna = {
         </div>
 <hr>
     <div align="center" style="display: flex; flex-direction: row;">
-        <div width="70%">
+        <div style="width:70%">
         <img src="https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true&&hide_border=true&border_radius=2&card_width=300">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabserna&theme=tokyonight&show_icons=true&hide_border=true&border_radius=2">
     </div>
