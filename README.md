@@ -1,3 +1,5 @@
+![MasterHead](/banner.gif){style="width: 100%; position: absolute; top: -350px; left: 0;"}
+
 <header style="height: 500px; overflow: hidden; position: relative;">
   <img src="./banner.gif" alt="MasterHead" style="width: 100%; position: absolute; top: -350px; left: 0;">
 </header>
