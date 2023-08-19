@@ -73,7 +73,7 @@ const gabserna = {
 </p>
 <hr>
     <div align="center" style="display: flex; flex-direction: row; justify-content: center; margin:0 auto">
-        <div align="center" style="display: flex; flex-direction: row; width: 30%; justify-content: center;">
+        <div align="center" style="width: 30%; justify-content: center;">
         <img src="https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabserna&theme=tokyonight&show_icons=true">    
     </div>
