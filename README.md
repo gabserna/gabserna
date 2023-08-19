@@ -62,26 +62,18 @@ const gabserna = {
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" />
         </div>
 <hr>
-    <div align="center" style="display: flex; flex-direction: row; margin:0 auto">
-        <div align="center" style="width: 20%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true&&hide_border=true&border_radius=2&date_format=M%20j%5B%2C%20Y%5D&card_width=300">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabserna&theme=tokyonight&show_icons=true">    
+    <div align="center" style="display: flex; flex-direction: row;">
+        <div>
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true&&hide_border=true&border_radius=2&date_format=M%20j%5B%2C%20Y%5D&card_width=300">
+        <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabserna&theme=tokyonight&show_icons=true&hide_border=true&border_radius=2">
     </div>
         <a href="https://github.com/gabserna/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&show_icons=true&&hide_border=true&border_radius=2&date_format=M%20j%5B%2C%20Y%5D&card_width=250">
+            <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&show_icons=true&&hide_border=true&border_radius=2&date_format=M%20j%5B%2C%20Y%5D&card_width=250">
         </a>
     </div>
+
+
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/gabserna/count.svg?"  />
 </div>
-
-###
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true&&hide_border=true&border_radius=2&date_format=M%20j%5B%2C%20Y%5D&card_width=300)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&show_icons=true&&hide_border=true&border_radius=2&date_format=M%20j%5B%2C%20Y%5D&card_width=250)](https://github.com/gabserna/github-readme-stats)
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabserna&theme=tokyonight&hide_border=true&border_radius=2&date_format=M%20j%5B%2C%20Y%5D&card_width=350)](https://git.io/streak-stats)
