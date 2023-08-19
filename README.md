@@ -1,5 +1,4 @@
 ![MasterHead](/header.jpg)
-
 <h1 align="center">Hey there!👋, it's me: Gabe Serna</h1>
 <h3 align="center">A passionate (still on the way 2be) developer from Cancun, MX 🌴🌊</h3>
 
@@ -31,8 +30,7 @@ const gabserna = {
 };
 
 ```
-<hr><br>
-
+<hr>
 <div align="left">
 <h3>I code with this languages and tools:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html5 logo"  />
@@ -64,14 +62,14 @@ const gabserna = {
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
 </div>
-<hr><br>
+<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/gabserna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gabserna" height="30" width="40" /></a>
 <a href="https://twitter.com/_gabserna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_gabserna" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gabserna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabserna" height="30" width="40" /></a>
 </p>
-<hr><br>
+<hr>
 <div align="center" style="display:flex;justify-content:space-between;align:center;"> 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true)
