@@ -62,16 +62,13 @@ const gabserna = {
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" />
         </div>
 <hr>
-    <div style="width:100%; margin:0 auto;  border: 2px solid red; display: flex;">
-        <div style="width:80%; display: flex; justify-content: space-evenly;">
+    <div style="width:80%; margin:0 auto; display: flex; justify-content: space-evenly;">
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabserna&theme=tokyonight&show_icons=true&border_radius=0&card_width=350">    
         <a href="https://github.com/gabserna/github-readme-stats">
             <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&
             layout=compact&langs_count=8&border_radius=0&card_width=300&show_icons=true&locale=en&layout=compact
             ">
         </a>
-            <img src="https://github-readme-stats.vercel.app/api?username=gabserna&theme=tokyonight&show_icons=true&&border_radius=0&rank_icon=github&hide=contribs,issues&card_width=200">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabserna&theme=tokyonight&show_icons=true&border_radius=0&card_width=350">
-    </div>
     </div>
 
 
