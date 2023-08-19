@@ -68,7 +68,7 @@ const gabserna = {
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabserna&theme=tokyonight&show_icons=true&hide_border=true&border_radius=2">
     </div>
         <a href="https://github.com/gabserna/github-readme-stats">
-            <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabserna&theme=tokyonight&
             layout=compact&langs_count=8&hide_border=true&border_radius=2&card_width=320&show_icons=true&locale=en&layout=compact
             ">
         </a>
