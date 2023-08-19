@@ -63,7 +63,7 @@ const gabserna = {
         </div>
 <hr>
     
-<div style="width:80%; margin:0 auto; display: flex; justify-content: space-evenly;">
+<div align="center">
         <img  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabserna&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8&border_radius=0&card_width=300" />
         <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabserna&theme=tokyonight&show_icons=true&border_radius=0&card_width=350"/>
     </div>
