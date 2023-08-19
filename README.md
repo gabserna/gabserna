@@ -1,8 +1,7 @@
-![MasterHead](/banner.gif)
+![MasterHead](/header.jpg)
 
 <h1 align="center">Hi 👋, I'm Gabe Serna</h1>
 <h3 align="center">A passionate (still on the way 2be) developer from Cancun, MX 🌴🌊</h3>
-<img align="right" alt="Coding" width="400" src="./programmer.gif">
 
 - 💾 Creating bugs since 1993
 
