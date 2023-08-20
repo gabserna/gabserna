@@ -1,9 +1,8 @@
 <h1 align="center" style="padding:0; margin:0;">I'm Gabe Serna</h1>
 <h3 align="center" style="padding:0; margin:0;">(still on the way 2be) a FullStack WebDev 🌴🌊</h3>
 <br>
-<div align="left" width="600em" margin="0 auto">
-
-```
+<pre>
+<code align="left" width="400em" margin="0 auto">
 const gabserna = {
   name: "Gabe Serna",
   from: "Cancun MX",
@@ -29,8 +28,8 @@ const gabserna = {
   },
   stillLearning: true,
 };
-```
-</div>
+</code>
+</pre>
 
 <hr>
 <h3 align="center">Still learning to master coding with:</h3>
