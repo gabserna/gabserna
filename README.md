@@ -2,33 +2,33 @@
 <h3 align="center" style="padding:0; margin:0;">(still on the way 2be) a FullStack WebDev 🌴🌊</h3>
 <br>
 <pre>
-<code align="left" width="400em" margin="0 auto">
-const gabserna = {
-  name: "Gabe Serna",
-  from: "Cancun MX",
-  established: "1993-Current",
-  education: {
-    certificated: "Web Programming & Development",
-    school: "Mountainland Technical College",
-    graduationYear: 2024,
-  },
-  learningSkills: {
-    languages: ["HTML", "CSS", "JavaScript"],
-    legacy: ["Cobol", "Basic", "Fortran", "Pascal"],
-    frameworks: {
-      web: ["React", "Angular"],
-      ui: ["React Bootstrap", "Angular Material"]
-    },
-    frontendTools: ["Postman", "Pug", "Sass"],
-    versionControl: ["Git", "GitHub"],
-    databases: ["MongoDB", "PostgreSQL"],
-    containerization: ["Docker", "Kubernetes"],
-    runtime: ["Node.js"],
-    cloudServices: ["AWS"]
-  },
-  stillLearning: true,
-};
-</code>
+  <code align="left" width="100vw" margin="0 auto">
+    const gabserna = {
+      name: "Gabe Serna",
+      from: "Cancun MX",
+      established: "1993-Current",
+      education: {
+        certificated: "Web Programming & Development",
+        school: "Mountainland Technical College",
+        graduationYear: 2024,
+      },
+      learningSkills: {
+        languages: ["HTML", "CSS", "JavaScript"],
+        legacy: ["Cobol", "Basic", "Fortran", "Pascal"],
+        frameworks: {
+          web: ["React", "Angular"],
+          ui: ["React Bootstrap", "Angular Material"]
+        },
+        frontendTools: ["Postman", "Pug", "Sass"],
+        versionControl: ["Git", "GitHub"],
+        databases: ["MongoDB", "PostgreSQL"],
+        containerization: ["Docker", "Kubernetes"],
+        runtime: ["Node.js"],
+        cloudServices: ["AWS"]
+      },
+      stillLearning: true,
+    };
+  </code>
 </pre>
 
 <hr>
