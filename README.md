@@ -33,13 +33,6 @@
 </pre>
 
 <hr>
-{% note tip %}
-Still learning to master coding with:
-{% endnote %}
-
-
-
-
 <h3 align="center">Still learning to master coding with:</h3>
 <div align="center" style="width: 50vw; margin: 0 auto; text-align: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="25" />
