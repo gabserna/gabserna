@@ -70,3 +70,7 @@ const gabserna = {
 <div align="center">
   <img src="https://profile-counter.glitch.me/gabserna/count.svg?"  />
 </div>
+
+
+| <div style="width: 40vw;">Contenido</div> |
+| :------------------------------------------------------------: |
