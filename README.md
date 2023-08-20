@@ -1,7 +1,7 @@
 <h1 align="center" style="padding:0; margin:0;">I'm Gabe Serna</h1>
 <h3 align="center" style="padding:0; margin:0;">(still on the way 2be) a FullStack WebDev 🌴🌊</h3>
 <br>
-<div style="width: 60vw; margin: 0 auto; text-align: left;">
+<div width="60vw">
 
 ```
 const gabserna = {
