@@ -1,5 +1,5 @@
-<h1 align="center" style="padding:0; margin:0;">I'm Gabe Serna</h1>
-<h3 align="center" style="padding:0; margin:0;">(still on the way 2be) a FullStack WebDev 🌴🌊</h3>
+<h1 align="center">I'm Gabe Serna</h1>
+<h3 align="center">(still on the way 2be) a FullStack WebDev 🌴🌊</h3>
 <br>
 <pre>
   <code align="left" width="100vw" margin="0 auto">
