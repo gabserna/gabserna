@@ -1,7 +1,7 @@
 <h1 align="center" style="padding:0; margin:0;">I'm Gabe Serna</h1>
 <h3 align="center" style="padding:0; margin:0;">(still on the way 2be) a FullStack WebDev 🌴🌊</h3>
 <br>
-<div width="80vw">
+<div align="center" width="50vw">
 
 ```
 const gabserna = {
@@ -34,7 +34,7 @@ const gabserna = {
 
 <hr>
 <h3 align="center">Still learning to master coding with:</h3>
-<div style="width: 50vw; margin: 0 auto; text-align: center;">
+<div align="center" style="width: 50vw; margin: 0 auto; text-align: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="25" />
