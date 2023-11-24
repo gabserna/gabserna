@@ -10,25 +10,30 @@
       established: "1993-Current",
       education: {
         certificated: "Web Programming & Development",
-        school: "Mountainland Technical College",
-        graduationYear: 2024,
+        school: "MTECH College",
       },
-      learningSkills: {
-        languages: ["HTML", "CSS", "JavaScript"],
+      skills: {
+        languages: ["JavaScript", "TypeScript"],
         legacy: ["Cobol", "Basic", "Fortran", "Pascal"],
         frameworks: {
-          web: ["React", "Angular"],
-          ui: ["React Bootstrap", "Angular Material"]
+          web: ["React", "Angular", "Express.js", "Next.js", "Vuetify", "Ionic"],
+          ui: ["Tailwind", "Vuetify", "Bootstrap", "Material UI", "Daysi UI"],
         },
-        frontendTools: ["Postman", "Pug", "Sass"],
+        qualityAssurance: {
+          tools: ["SonarQube", "Jasmine", "Cypress", "Selenium"],
+        },
+        frontendTools: ["Postman", "Sass"],
         versionControl: ["Git", "GitHub"],
-        databases: ["MongoDB", "PostgreSQL"],
+        databases: ["MongoDB", "PostgreSQL", "Firebase"],
         containerization: ["Docker", "Kubernetes"],
         runtime: ["Node.js"],
-        cloudServices: ["AWS"]
+        cloudServices: ["AWS Cloud Foundations"],
+        mobileFrameworks: ["Ionic"],
       },
-      stillLearning: true,
+      opentoLearn: true,
     };
+
+
   </code>
 </pre>
 
