@@ -38,7 +38,7 @@
 </pre>
 
 <hr>
-<h3 align="center">Still learning to master coding with:</h3>
+<h3 align="center">On my way to master coding with:</h3>
 <div align="center" style="width: 50vw; margin: 0 auto; text-align: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" />
