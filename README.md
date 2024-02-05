@@ -1,41 +1,8 @@
 # I'm Gabe Serna
-## (still on the way 2be) a FullStack WebDev 🌴🌊
+## Web Developer 🌴🌊
 
 <br>
-<pre>
-  <code align="left" width="100vw" margin="0 auto">
-    const gabserna = {
-      name: "Gabe Serna",
-      from: "Cancun MX",
-      established: "1993-Current",
-      education: {
-        certificated: "Web Programming & Development",
-        school: "MTECH College",
-      },
-      skills: {
-        languages: ["JavaScript", "TypeScript"],
-        legacy: ["Cobol", "Basic", "Fortran", "Pascal"],
-        frameworks: {
-          web: ["React", "Angular", "Express.js", "Next.js", "Vuetify", "Ionic"],
-          ui: ["Tailwind", "Vuetify", "Bootstrap", "Material UI", "Daysi UI"],
-        },
-        qualityAssurance: {
-          tools: ["SonarQube", "Jasmine", "Cypress", "Selenium"],
-        },
-        frontendTools: ["Postman", "Sass"],
-        versionControl: ["Git", "GitHub"],
-        databases: ["MongoDB", "PostgreSQL", "Firebase"],
-        containerization: ["Docker", "Kubernetes"],
-        runtime: ["Node.js"],
-        cloudServices: ["AWS Cloud Foundations"],
-        mobileFrameworks: ["Ionic"],
-      },
-      opentoLearn: true,
-    };
 
-
-  </code>
-</pre>
 
 <hr>
 <h3 align="center">On my way to master coding with:</h3>
