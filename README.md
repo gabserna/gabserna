@@ -10,8 +10,9 @@
 
 ## ✨ Fun Facts
 
-- Passionate about coding since the 90's 💻
+- Passionate about programming since the 90s 💻
 - I love night fishing 🎣🌴🌊
+- always curious to know how things work  🔍📖
 <!-- - Legacy Languages: `Cobol` `Fortran` `Pascal` -->
 <br>
 
