@@ -18,15 +18,12 @@
 
 ## 📦 Toolbox
 
-**Frontend:** `React` `Angular` `JavaScript` `TypeScript` `Tailwind` `Material-UI` `Sass`
+**Frontend:** `React` `Angular` `JS` `TS` `Tailwind` `MUI` `Sass`
  
-**Backend:** `Node.js` `Express` `Firebase` `AWS`
+**Backend:** `Node.js` `Express` `Firebase` `AWS Foundations`
 
-**Testing:** `Jasmine` `Cypress` `Postman`
-
-**Version Control:** `Git` `GitHub`
-
-
+<!-- **Testing:** `Jasmine` `Cypress` `Postman` -->
+<!-- **Version Control:** `Git` `GitHub` -->
 <!-- **DB:** `MongoDB` `PostgreSQL` -->
 <!-- **Containerization**: `Docker` `Kubernetes` -->
 <!-- **Cloud** Services: `AWS` `Google Cloud` -->
