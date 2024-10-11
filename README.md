@@ -1,5 +1,5 @@
-# I'm Gabe Serna 👋🏽
-## &nbsp; a Web Developer from Cancun, MX 🌴🌊, I love about creating digital experiences, open to continuous learning always!.
+# Hey there! I'm Gabe Serna 👋🏽
+## &nbsp; a Web Developer from Cancun, MX 🌴🌊, I love creating web content, open to continuous learning all the time!.
 <br>
 
 - Check out my [myPortfolio](https://gabserna.github.io/myportfolio) to learn more about my skills.
@@ -18,7 +18,7 @@
 
 ## 📦 Toolbox
 
-**Frontend:** `React` `Angular` `JS` `TS` `Tailwind` `MUI` `Sass`
+**Frontend:** `Vue` `React` `Angular` `JS` `TS` `Vuetify` `MUI` `Sass`
  
 **Backend:** `Node.js` `Express` `Firebase` `AWS Foundations`
 
