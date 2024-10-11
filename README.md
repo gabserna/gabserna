@@ -1,5 +1,5 @@
 # I'm Gabe Serna 👋🏽
-## &nbsp; a Web Developer from Cancun, MX 🌴🌊, passionate about creating digital experiences, open to continuous learning of course!.
+## &nbsp; a Web Developer from Cancun, MX 🌴🌊, I love about creating digital experiences, open to continuous learning always!.
 <br>
 
 - Check out my [myPortfolio](https://gabserna.github.io/myportfolio) to learn more about my skills.
@@ -10,7 +10,7 @@
 
 ## ✨ Fun Facts
 
-- Passionate about programming since the 90s 💻
+- Programming since early 90s 💻
 - I love night fishing 🎣🌴🌊
 - always curious to know how things work  🔍📖
 <!-- - Legacy Languages: `Cobol` `Fortran` `Pascal` -->
