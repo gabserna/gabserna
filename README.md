@@ -1,33 +1,35 @@
 # Hey there! I'm Gabe Serna 👋🏽
-## &nbsp; a Web Developer from Cancun, MX 🌴🌊, I love creating web content, open to continuous learning all the time!.
+## a Web Developer from Cancun, MX 🌴🌊, I love coding!.
 <br>
 
-- Check out my [myPortfolio](https://gabserna.github.io/myportfolio) to learn more about my skills.
+- Check out my [myPortfolio](https://gabserna.github.io/myportfolio) to find out more about my skills.
 
 - Explore my [VS Code Configuration](https://github.com/gabserna/myVSCodeSettings) for development optimization.
 
 - See more of me on [LinkedIn](https://www.linkedin.com/in/gabserna/).
 
-## ✨ Fun Facts
+## ✨ Fun Facts about me
 
-- Programming since early 90s 💻
-- I love night fishing 🎣🌴🌊
-- always curious to know how things work  🔍📖
-<!-- - Legacy Languages: `Cobol` `Fortran` `Pascal` -->
+- Old-School Programmer since the 90's! 💻
+- Night fishing fan! 🎣🌴🌊
+- Naturally curious on how things work!  🔍📖
+- Leveling up my dev skills with Vue, Vuetify, and more! 🚀
+- Love solving problems and coding challenges! 💡🧩
+- Always experimenting with new tech to stay ahead! 🔧⚙️
+- Eager to learn new languages and frameworks! 📚✨
+
 <br>
 
 ## 📦 Toolbox
 
-**Frontend:** `Vue` `React` `Angular` `JS` `TS` `Vuetify` `MUI` `Sass`
+**Frontend:** `Vue` `React` `Angular` `JavaScript` `TypeScript` `Vuetify` `UI's` `Sass`
  
-**Backend:** `Node.js` `Express` `Firebase` `AWS Foundations`
+**Backend:** `Node.js` `Express` `MySQL` `Firebase` `AWS` `Google Cloud`
+
+**Version Control:** `Git` `GitHub`
 
 <!-- **Testing:** `Jasmine` `Cypress` `Postman` -->
-<!-- **Version Control:** `Git` `GitHub` -->
-<!-- **DB:** `MongoDB` `PostgreSQL` -->
 <!-- **Containerization**: `Docker` `Kubernetes` -->
-<!-- **Cloud** Services: `AWS` `Google Cloud` -->
-<!-- **Frontend:** `Vue.js` `Vuetify` -->
 <br>
 
 <hr>
@@ -43,18 +45,18 @@
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" />
   <img src="https://skillicons.dev/icons?i=aws" height="25" />
-  <!-- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="25" /> -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="25" />
   <img src="https://skillicons.dev/icons?i=github" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="25" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" /> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="25" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="25" />
   <!-- <img src="https://skillicons.dev/icons?i=postman" height="25" /> -->
   <!-- <img src="https://skillicons.dev/icons?i=vite" height="25" /> -->
   <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" />
 </div>
 <hr>
 
@@ -70,8 +72,7 @@
   <img src="https://profile-counter.glitch.me/gabserna/count.svg?"  />
 </div>
 
-
-<!-- ## 📫 Contact
-email me -->
+## 📫 Contact
+[email me](mailto:docufirmas1@gmail.com)
 
 <!-- https://markdownlivepreview.com/ -->
