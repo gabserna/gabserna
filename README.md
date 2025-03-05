@@ -73,6 +73,6 @@
 </div>
 
 ## 📫 Contact
-<!-- [email me](mailto:gabserna@users.noreply.github.com) -->
+[message me](https://gabserna.github.io/myportfolio/#contact)
 
 <!-- https://markdownlivepreview.com/ -->
