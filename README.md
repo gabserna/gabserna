@@ -1,4 +1,4 @@
-# Hey there! I'm Gabe Serna 👋🏽
+# Hey there! I'm Gabe Serna 👨‍💻
 ## a Web Developer from Cancun, MX 🌴🌊, I love coding!.
 <br>
 
