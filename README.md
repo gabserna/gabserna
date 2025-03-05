@@ -74,5 +74,7 @@
 
 ## 📫 Contact
 [message me](https://gabserna.github.io/myportfolio/#contact)
+<a href="https://gabserna.github.io/myportfolio/#contact" target="_blank">message meee</a>
+
 
 <!-- https://markdownlivepreview.com/ -->
