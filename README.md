@@ -9,7 +9,7 @@
   </a>
 
 - See more of me on <a href="https://linkedin.com/in/gabserna" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="gabserna" height="30" width="20" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="gabserna" height="25" width="25" />
 </a>
 
 
