@@ -4,14 +4,9 @@
 
 - Check out my [myPortfolio](https://gabserna.github.io/myportfolio) to find out more about my skills.
 
-- Explore my [VS Code Configuration](https://github.com/gabserna/myVSCodeSettings) for development optimization.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" />
-
-- - <a href="https://github.com/gabserna/myVSCodeSettings" target="_blank" rel="noopener noreferrer">
+- Explore my VS Code Configuration for development optimization: <a href="https://github.com/gabserna/myVSCodeSettings" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" />
-  </a> Explore my VS Code Configuration for development optimization.
-
-
+  </a>
 
 - See more of me on <a href="https://linkedin.com/in/gabserna" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabserna" height="30" width="40" />
