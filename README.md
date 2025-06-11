@@ -7,10 +7,10 @@
 - Explore my [VS Code Configuration](https://github.com/gabserna/myVSCodeSettings) for development optimization.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" />
 
-- NEW: Explore my <a href="https://github.com/gabserna/myVSCodeSettings" target="_blank" rel="noopener noreferrer">VS Code Configuration</a> for development optimization.
-  <a href="https://github.com/gabserna/myVSCodeSettings" target="_blank" rel="noopener noreferrer">
+- - <a href="https://github.com/gabserna/myVSCodeSettings" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" />
-  </a>
+  </a> Explore my VS Code Configuration for development optimization.
+
 
 
 - See more of me on <a href="https://linkedin.com/in/gabserna" target="_blank" rel="noopener noreferrer">
