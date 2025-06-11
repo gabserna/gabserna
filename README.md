@@ -41,17 +41,18 @@
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" /> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" />
   <img src="https://skillicons.dev/icons?i=aws" height="25" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="25" />
   <img src="https://skillicons.dev/icons?i=github" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="25" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="25" />
-  <!-- <img src="https://skillicons.dev/icons?i=postman" height="25" /> -->
+  <img src="https://skillicons.dev/icons?i=postman" height="25" />
+ <img src="https://skillicons.dev/icons?i=docker" height="25" />
   <!-- <img src="https://skillicons.dev/icons?i=vite" height="25" /> -->
   <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="25" />
