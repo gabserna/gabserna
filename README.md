@@ -36,6 +36,7 @@
 <!-- <h3 align="center">Still learning to master coding with:</h3> -->
 <div align="center" style="width: 50vw; margin: 0 auto; text-align: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="25" />
+ <img src="https://skillicons.dev/icons?i=ts" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="25" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" /> -->
@@ -57,6 +58,11 @@
   <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" />
+ <img src="https://skillicons.dev/icons?i=figma" height="25" />
+ <img src="https://skillicons.dev/icons?i=gcp" height="25" />
+ <img src="https://skillicons.dev/icons?i=git" height="25" />
+ <img src="https://skillicons.dev/icons?i=github" height="25" />
+ <img src="https://skillicons.dev/icons?i=jquery" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" />
 </div>
 <hr>
