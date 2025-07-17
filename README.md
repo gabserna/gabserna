@@ -26,7 +26,7 @@
 
 **Frontend:** `Vue` `React` `Angular` `JavaScript` `TypeScript` `Vuetify` `UI's` `Sass`
  
-**Backend:** `Node.js` `Express` `MySQL` `Firebase` `AWS` `Google Cloud`
+**Backend:** `OOP` `Node.js` `Express` `MySQL` `Firebase` `AWS` `Google Cloud`
 
 **Version Control:** `Git` `GitHub`
 
