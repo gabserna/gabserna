@@ -1,4 +1,4 @@
-# Hey there! I'm Gabe Serna 👨‍💻
+# I'm Gabe Serna 👨‍💻
 ## a Web Developer from Cancun, MX 🌴🌊, I love coding!.
 <br>
 
@@ -24,7 +24,7 @@
 
 ## 📦 Toolbox
 
-**Frontend:** `Vue` `React` `Angular` `JavaScript` `TypeScript` `Vuetify` `UI's` `Sass`
+**Frontend:** `Vue` `React` `Angular` `JavaScript` `TypeScript` `Vuetify` `UI's` `Sass` `mjml`
  
 **Backend:** `OOP` `Node.js` `Express` `MySQL` `Firebase` `AWS` `Google Cloud`
 
