@@ -84,6 +84,11 @@
 <!-- ## 📫 Contact -->
 <!-- [message me](https://gabserna.github.io/myportfolio/#contact) -->
 
-![This is an alt text.](https://www.villapalmarcancun.com/cms/resources/playa-marlin-in-cancun-beach-in-mexico.jpeg "This is a sample image."){: width="150" }
+![This is an alt text.](https://www.villapalmarcancun.com/cms/resources/playa-marlin-in-cancun-beach-in-mexico.jpeg "This is a sample image.")
+
+<img src="https://www.mexicodestinos.com/blog/wp-content/uploads/2023/09/destacada.jpg" 
+     alt="This is an alt text." 
+     title="This is a sample image." 
+     width="300" />
 
 <!-- https://markdownlivepreview.com/ -->
