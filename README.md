@@ -84,6 +84,6 @@
 <!-- ## 📫 Contact -->
 <!-- [message me](https://gabserna.github.io/myportfolio/#contact) -->
 
-![This is an alt text.](https://www.villapalmarcancun.com/cms/resources/playa-marlin-in-cancun-beach-in-mexico.jpeg "This is a sample image.")
+![This is an alt text.](https://www.villapalmarcancun.com/cms/resources/playa-marlin-in-cancun-beach-in-mexico.jpeg "This is a sample image."){: width="150" }
 
 <!-- https://markdownlivepreview.com/ -->
