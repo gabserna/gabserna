@@ -12,13 +12,14 @@
 
 ## ✨ Fun Facts about me
 
-- Old-School Programmer since the 90's! 💻
-- Night fishing fan! 🎣🌴🌊
-- Naturally curious on how things work!  🔍📖
-- Leveling up my dev skills with Vue, Vuetify, and more! 🚀
-- Love solving problems and coding challenges! 💡🧩
-- Always experimenting with new tech to stay ahead! 🔧⚙️
-- Eager to learn new languages and frameworks! 📚✨
+- Coding since the 90’s. Survived dial-up 💾📞
+- Night fishing by moonlight fan 🎣🌙🌊🌴
+- I can’t stop asking “how does this work?” 🧠📖
+- Constantly leveling up as a dev 🚀🔍
+- I enjoy solving problems and challenges! 💡🧩
+- Team player. Collaboration > ego 🤝
+- Always testing new tech and pushing my limits 🔧⚙️
+- Learning mode: permanently ON 📚✨
 
 <br>
 
@@ -32,6 +33,10 @@
 
 <!-- **Testing:** `Jasmine` `Cypress` `Postman` -->
 <!-- **Containerization**: `Docker` `Kubernetes` -->
+
+<!--  'HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'PHP', 'Java', 'JSON', 'Markdown', 'Regex', 'Sass', 'SCSS', 'Tailwind', 'Bootstrap', 'Vuetify', 'Material Design', 'MJML', 'Vue.js', 'Vuex', 'Vue Router', 'Nuxt.js', 'React', 'Next.js', 'Angular', 'Ionic', 'jQuery', 'Axios', 'RESTful APIs', 'Node.js', 'Express', 'MySQL', 'PostgreSQL', 'MongoDB', 'Firebase', 'AWS', 'Google Cloud', 'Docker', 'Kubernetes', 'Playwright', 'Cypress', 'Jasmine', 'Karma', 'Selenium', 'Vite', 'NPM', 'Git', 'GitHub', 'VSCode', 'Postman', 'Trello', 'Slack', 'Zoom', 'Google Meet', 'Linux CLI', 'Batch scripting', 'Prettier', 'ESLint', 'OOP', 'i18n', 'UI/UX', 'Agile development practices', 'JWT', 'Figma', 'Postman', 'PostgreSQL', 'VSCode', 'DataGrip', 'Cobol', 'Pascal', 'Fortran', 'LISP', 'GWBasic', 'QBasic', 'Turbo Pascal', 'Delphi', 'VB.Net'
+-->
+
 <br>
 
 <hr>
