@@ -4,8 +4,8 @@
 
 <!-- - Check out my [Portfolio](https://gabserna.github.io/myportfolio) 💼 to find out more about my skills. -->
 
-- Explore my VS Code Configuration for development optimization: <a href="https://github.com/gabserna/myVSCodeSettings" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" /></a>
+<!-- - Explore my VS Code Configuration for development optimization: <a href="https://github.com/gabserna/myVSCodeSettings" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" /></a> -->
 
 <!-- - See more of me on <a href="https://linkedin.com/in/gabserna" target="_blank" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="gabserna" height="25" width="25" /></a> -->
 
