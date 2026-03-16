@@ -14,11 +14,11 @@
 
 - Coding since the 90’s. Survived dial-up 💾📞
 - Night fishing by moonlight fan 🎣🌙🌊🌴
-- I can’t stop asking “how does this work?” 🧠📖
+<!-- - I can’t stop asking “how does this work?” 🧠📖 -->
 - Constantly leveling up as a dev 🚀🔍
 - I enjoy solving problems and challenges! 💡🧩
 - Team player. Collaboration > ego 🤝
-- Always testing new tech and pushing my limits 🔧⚙️
+<!-- - Always testing new tech and pushing my limits 🔧⚙️ -->
 - Learning mode: permanently ON 📚✨
 
 <br>
@@ -29,7 +29,7 @@
  
 **Backend:** `OOP` `Node.js` `Express` `MySQL` `Firebase` `AWS` `Google Cloud`
 
-**Version Control:** `Git` `GitHub`
+<!-- **Version Control:** `Git` `GitHub` -->
 
 <!-- **Testing:** `Jasmine` `Cypress` `Postman` -->
 <!-- **Containerization**: `Docker` `Kubernetes` -->
