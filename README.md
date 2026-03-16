@@ -14,12 +14,12 @@
 
 - Coding since the 90’s. Survived dial-up 💾📞
 - Night fishing by moonlight fan 🎣🌙🌊🌴
-<!-- - I can’t stop asking “how does this work?” 🧠📖 -->
 - Constantly leveling up as a dev 🚀🔍
 - I enjoy solving problems and challenges! 💡🧩
 - Team player. Collaboration > ego 🤝
-<!-- - Always testing new tech and pushing my limits 🔧⚙️ -->
 - Learning mode: permanently ON 📚✨
+<!-- - Always testing new tech and pushing my limits 🔧⚙️ -->
+<!-- - I can’t stop asking “how does this work?” 🧠📖 -->
 
 <br>
 
