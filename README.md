@@ -81,6 +81,15 @@
   <!-- <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabserna&theme=tokyonight&show_icons=true&border_radius=0&hide_border=true&card_width=350"/> -->
 </div>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/gabserna">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabserna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabserna&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!-- <div align="center">
   <img src="https://profile-counter.glitch.me/gabserna/count.svg?"  />
 </div> -->
