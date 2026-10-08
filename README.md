@@ -85,12 +85,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<!-- <a href="https://github.com/gabserna">
+<a href="https://github.com/gabserna">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabserna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabserna&layout=compact&langs_count=8&theme=algolia"/>
-</a> -->
-
-    <a href="https://github.com/gabserna">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabserna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabserna&layout=compact&langs_count=8&theme=algolia"/>
 <img
@@ -99,15 +96,6 @@
     alt="GitHub Streak Stats"
   />
 </a>
-
-
-<!-- <a href="https://github.com/gabserna/todo-list">
-  <img
-    width="49%"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=gabserna&repo=todo-list&theme=algolia"
-    alt="Proyecto destacado"
-  />
-</a> -->
 
 <p align="center">
   <img
