@@ -1,5 +1,5 @@
 # I'm Gabe Serna 👨‍💻
-## a Web Developer from Cancun, MX 🌴🌊
+<!-- ## a Web Developer from Cancun, MX 🌴🌊 -->
 <br>
 
 <!-- - Check out my [Portfolio](https://gabserna.github.io/myportfolio) 💼 to find out more about my skills. -->
