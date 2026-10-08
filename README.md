@@ -85,10 +85,52 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/gabserna">
+<!-- <a href="https://github.com/gabserna">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabserna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabserna&layout=compact&langs_count=8&theme=algolia"/>
+</a> -->
+
+    <a href="https://github.com/gabserna">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabserna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabserna&layout=compact&langs_count=8&theme=algolia"/>
+<img
+    height="180"
+    src="https://streak-stats.demolab.com/?user=gabserna&theme=algolia&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+<img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gabserna&theme=github-compact&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+<img
+    width="100%"
+    src="https://github-profile-trophy.vercel.app/?username=gabserna&theme=algolia&no-frame=true&row=1&column=6"
+    alt="GitHub Profile Trophies"
+  />
+<img
+  src="https://komarev.com/ghpvc/?username=gabserna&color=0078D4&style=flat-square&label=Profile+Views"
+  alt="Profile Views"
+/>
+
 </a>
+
+
+<a href="https://github.com/gabserna/todo-list">
+  <img
+    width="49%"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=gabserna&repo=todo-list&theme=algolia"
+    alt="Proyecto destacado"
+  />
+</a>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=vue,js,nuxt,nodejs,angular,react,ts,mysql,docker,git,linux,vscode&theme=dark&perline=6"
+    alt="Tech Stack"
+  />
+</p>
+
 </p>
 
 <!-- <div align="center">
