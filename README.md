@@ -88,8 +88,12 @@
 <a href="https://github.com/gabserna">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabserna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabserna&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=gabserna&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
+  <img
+      src="https://streak-stats.demolab.com/?user=gabserna&theme=algolia&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=250&card_height=170"
+      alt="GitHub Total Contributions"
+  />
 </a>
+</p>
 
 <p align="center">
   <img
@@ -98,7 +102,6 @@
   />
 </p>
 
-</p>
 
 <!-- <div align="center">
   <img src="https://profile-counter.glitch.me/gabserna/count.svg?"  />
