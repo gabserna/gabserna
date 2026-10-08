@@ -98,31 +98,16 @@
     src="https://streak-stats.demolab.com/?user=gabserna&theme=algolia&hide_border=true"
     alt="GitHub Streak Stats"
   />
-<img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gabserna&theme=github-compact&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-<img
-    width="100%"
-    src="https://github-profile-trophy.vercel.app/?username=gabserna&theme=algolia&no-frame=true&row=1&column=6"
-    alt="GitHub Profile Trophies"
-  />
-<img
-  src="https://komarev.com/ghpvc/?username=gabserna&color=0078D4&style=flat-square&label=Profile+Views"
-  alt="Profile Views"
-/>
-
 </a>
 
 
-<a href="https://github.com/gabserna/todo-list">
+<!-- <a href="https://github.com/gabserna/todo-list">
   <img
     width="49%"
     src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=gabserna&repo=todo-list&theme=algolia"
     alt="Proyecto destacado"
   />
-</a>
+</a> -->
 
 <p align="center">
   <img
