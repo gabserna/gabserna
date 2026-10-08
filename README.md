@@ -21,8 +21,7 @@
 - Always testing new tech and pushing my limits 🔧⚙️ 
 - I can’t stop asking “how does this work?” 🧠📖 -->
 
-<br>
-
+<!-- <br> -->
 ## 📦 Toolbox
 
 **Frontend:** `Vue` `React` `Angular` `JavaScript` `TypeScript` `Vuetify` `UI's` `mjml`
