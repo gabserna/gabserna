@@ -85,7 +85,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/gabserna">
+  <!-- <a href="https://github.com/gabserna"> -->
     <img
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabserna&show_icons=true&theme=algolia&card_width=250&include_all_commits=true&count_private=true&hide_border=true"
       height="180" alt="GitHub Stats" />
@@ -95,7 +95,7 @@
     <img
       src="https://streak-stats.demolab.com/?user=gabserna&theme=algolia&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=250&card_height=180"
       height="180" alt="Total Contributions" />
-  </a>
+  <!-- </a> -->
 </p>
 
 <p align="center">
