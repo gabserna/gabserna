@@ -10,6 +10,7 @@
 <!-- - See more of me on <a href="https://linkedin.com/in/gabserna" target="_blank" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="gabserna" height="25" width="25" /></a> -->
 
 <!--
+
 ## ✨ Fun Facts about me
 
 - Coding since the 90’s. Survived dial-up 💾📞
@@ -20,6 +21,23 @@
 - Learning mode: permanently ON 📚✨
 - Always testing new tech and pushing my limits 🔧⚙️ 
 - I can’t stop asking “how does this work?” 🧠📖 -->
+
+ <details>
+  <summary><h3>✨ Fun Facts about me</h3></summary>
+
+  <ul>
+    <li>Coding since the 90’s. Survived dial-up 💾📞</li>
+    <li>Night fishing by moonlight fan 🎣🌙🌊🌴</li>
+    <li>Constantly leveling up as a dev 🚀🔍</li>
+    <li>I enjoy solving problems and challenges! 💡🧩</li>
+    <li>Team player. Collaboration &gt; ego 🤝</li>
+    <li>Learning mode: permanently ON 📚✨</li>
+    <li>Always testing new tech and pushing my limits 🔧⚙️</li>
+    <li>I can’t stop asking “how does this work?” 🧠📖</li>
+  </ul>
+</details>
+
+
 
 <!-- <br> -->
 ## 📦 Toolbox
