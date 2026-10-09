@@ -11,17 +11,6 @@
 
 <!--
 
-## ✨ Fun Facts about me
-
-- Coding since the 90’s. Survived dial-up 💾📞
-- Night fishing by moonlight fan 🎣🌙🌊🌴
-- Constantly leveling up as a dev 🚀🔍
-- I enjoy solving problems and challenges! 💡🧩
-- Team player. Collaboration > ego 🤝
-- Learning mode: permanently ON 📚✨
-- Always testing new tech and pushing my limits 🔧⚙️ 
-- I can’t stop asking “how does this work?” 🧠📖 -->
-
  <details>
   <summary><h3>✨ Fun Facts about me</h3></summary>
 
