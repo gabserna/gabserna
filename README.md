@@ -29,7 +29,6 @@
 -->
 
 ## 📦 Toolbox
-<br>
 **Frontend:** `Vue` `React` `Angular` `JavaScript` `TypeScript` `Vuetify` `UI's` `mjml`
  
 **Backend:** `OOP` `Node.js` `Express` `MySQL` `Firebase` `AWS` `Google Cloud`
@@ -41,6 +40,7 @@
 
 <!--  'HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'PHP', 'Java', 'JSON', 'Markdown', 'Regex', 'Sass', 'SCSS', 'Tailwind', 'Bootstrap', 'Vuetify', 'Material Design', 'MJML', 'Vue.js', 'Vuex', 'Nuxt.js', 'React', 'Next.js', 'Angular', 'Ionic', 'jQuery', 'Axios', 'RESTful APIs', 'Node.js', 'Express', 'MySQL', 'PostgreSQL', 'MongoDB', 'Firebase', 'AWS', 'Google Cloud', 'Docker', 'Kubernetes', 'Playwright', 'Cypress', 'Jasmine', 'Karma', 'Selenium', 'Vite', 'NPM', 'Git', 'GitHub', 'VSCode', 'Postman', 'Trello', 'Slack', 'Zoom', 'Google Meet', 'Linux CLI', 'Batch scripting', 'Prettier', 'ESLint', 'OOP', 'i18n', 'UI/UX', 'Agile development practices', 'JWT', 'Figma', 'Postman', 'PostgreSQL', 'VSCode', 'DataGrip', 'Cobol', 'Pascal', 'Fortran', 'LISP', 'GWBasic', 'QBasic', 'Turbo Pascal', 'Delphi', 'VB.Net' `Sass`
 -->
+
 <br>
 <hr>
 <!-- <h3 align="center">Still learning to master coding with:</h3> -->
